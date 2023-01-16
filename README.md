@@ -1,6 +1,6 @@
 # API server for ChatGPT
 
-Backend server for **ChatGPT With Voice**. You can check out [the website](hmseeb.github.io/chatgpt), or find the [frontend repo](https://github.com/hmseeb/chatgpt) on GitHub.
+Backend server for **ChatGPT With Voice**. You can check out [the website](https://hmseeb.github.io/chatgpt), or find the [frontend repo](https://github.com/hmseeb/chatgpt) on GitHub.
 
 ## Installation
 Clone this repo.
